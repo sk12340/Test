@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Week2","c":"Counter","l":"countLetters(String)","u":"countLetters(java.lang.String)"},{"p":"Week2","c":"Counter","l":"countWords(String)","u":"countWords(java.lang.String)"},{"p":"Week2","c":"Counter","l":"getLength(String)","u":"getLength(java.lang.String)"}];updateSearchResults();
